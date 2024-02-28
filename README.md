@@ -1,3 +1,3 @@
 # LeetCode-solved-problems
-Python
+Python\n
 MySQL
