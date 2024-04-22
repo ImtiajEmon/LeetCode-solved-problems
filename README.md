@@ -13,8 +13,8 @@
   => [Solution](https://github.com/ImtiajEmon/LeetCode-solved-problems/tree/main/Graph%20Theory)
 
 ## SQL 50
-  => [Problem List](https://leetcode.com/studyplan/top-sql-50/)\
-  => [Solution](https://github.com/ImtiajEmon/LeetCode-solved-problems/tree/main/SQL%2050)
+  ➤ [Problem List](https://leetcode.com/studyplan/top-sql-50/)\
+  ➤ [Solution](https://github.com/ImtiajEmon/LeetCode-solved-problems/tree/main/SQL%2050)
 
   
 
