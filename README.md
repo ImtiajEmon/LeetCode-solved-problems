@@ -20,6 +20,6 @@
 
 # ❖ Topic-wise practice
 
-  ➤ [Binary Search]()     
-  ➤ [Sliding Window]()    
-  ➤ [Backtracking](https://github.com/ImtiajEmon/LeetCode-solved-problems/tree/main/Backtracking) 
+  ◉ [Binary Search]()     
+  ◉ [Sliding Window]()    
+  ◉ [Backtracking](https://github.com/ImtiajEmon/LeetCode-solved-problems/tree/main/Backtracking) 
