@@ -1,4 +1,4 @@
-# » LeetCode-solved-problems
+# ❖ LeetCode-solved-problems
 
 ## LeetCode 75
   => [Problem List](https://leetcode.com/studyplan/leetcode-75/)\
@@ -18,7 +18,7 @@
 
   
 
-# Topic-wise practice
+# ❖ Topic-wise practice
 
   ➤ [Binary Search]()     
   ➤ [Sliding Window]()    
