@@ -15,3 +15,9 @@
 ## SQL 50
   => [Problem List](https://leetcode.com/studyplan/top-sql-50/)\
   => [Solution](https://github.com/ImtiajEmon/LeetCode-solved-problems/tree/main/SQL%2050)
+
+# Topic-wise practice
+
+  ➤ [Binary Search]() 
+  ➤ [Sliding Window]() 
+  ➤ [Backtracking](https://github.com/ImtiajEmon/LeetCode-solved-problems/tree/main/Backtracking) 
